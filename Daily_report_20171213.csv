@@ -1,0 +1,28 @@
+product_name,product_id,product_price,sales_counts,sales_values,Paid by Cash amounts,Paid by Debit amounts,Paid by Credit amounts
+Medium Latte,3,2.0,1,2.0,0,1,0
+Medium Cappuccino,4,2.0,5,10.0,1,3,1
+Medium Mocha,5,2.2,2,4.4,2,0,0
+Medium Hot Chocolate,6,2.1,1,2.1,1,0,0
+Small Americano,14,1.6,1,1.6,0,0,1
+Small Latte,15,1.8,10,18.0,5,1,4
+Small Cappuccino,16,1.8,2,3.6,1,0,1
+Large Latte,27,2.25,1,2.25,1,0,0
+Large Mocha,29,2.6,2,5.2,0,1,1
+Coca Cola 330ml,38,1.0,11,11.0,5,4,2
+Coke Zero 330ml,39,1.0,2,2.0,1,0,1
+Lemonade 330ml,40,1.0,1,1.0,0,0,1
+Panini Roast Beef Melt,44,4.75,10,47.5,5,3,2
+"Panini Bacon, Brie, Cranberry",48,4.75,1,4.75,1,0,0
+Salad Tuna,50,5.95,1,5.95,0,0,1
+Salad Mezze Platter,51,5.95,1,5.95,0,0,1
+Salad Greek Feta,52,5.95,1,5.95,0,0,1
+Sandwich Ham and Pickle,53,3.49,1,3.49,1,0,0
+Sandwich Ham and Cheese,54,3.49,2,6.98,0,0,2
+Sandwich Chicken Tikka,58,3.45,1,3.45,0,0,1
+Sea Salt Popcorn,65,0.65,3,1.95,0,2,1
+Oat and Rasin Cookie,67,0.65,2,1.3,1,1,0
+Triple Chocolate Cookie,68,0.65,1,0.65,1,0,0
+Piece of Fruit,69,0.5,1,0.5,0,1,0
+Kettle Chips Cheddar and Onion,70,0.85,1,0.85,0,0,1
+Kettle Chips Sea Salt and Balsamic,71,0.85,1,0.85,0,1,0
+Kettle Chips Lighly Salted,72,0.85,2,1.7,0,1,1
